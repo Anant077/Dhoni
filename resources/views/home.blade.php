@@ -51,7 +51,7 @@
 
             1. Early Life : Dhoni was born on July 7, 1981, in Ranchi, Jharkhand, India. He hails from a modest background and started his cricketing journey in his hometown, initially playing as a goalkeeper in football and later turning his focus towards cricket.<br><br>
 
-            2. Debut and Career : He made his international debut for India in December 2004 in an ODI against Bangladesh. Dhoni's rise to prominence was swift, known for his powerful batting style, innovative shots, and lightning-quick skills behind the stumps as a wicketkeeper.<br><br>
+            2. Debut and Career : He made his international debut for India in December 2004 in an ODI against Bangladesh. Dhoni's rise to prominence was swift, known for his powerful batting style, innovative shots and lightning-quick skills behind the stumps as a wicketkeeper.<br><br>
 
             3. Captaincy : Dhoni's captaincy tenure began in 2007, and he became the captain of the Indian cricket team in all formats. Under his leadership, India achieved several significant milestones, including winning the inaugural ICC World Twenty20 in 2007, the ICC Cricket World Cup in 2011, and the ICC Champions Trophy in 2013.<br><br>
 
@@ -63,7 +63,9 @@
 
             7. Off-field Contributions : Post his playing career, Dhoni has been involved in various roles, including captaining and mentoring the Chennai Super Kings (CSK) franchise in the Indian Premier League (IPL). He remains an influential figure in the cricketing world and continues to contribute to the sport's development.<br><br>
 
-            MS Dhoni's impact on Indian cricket, his achievements as a player and a leader, and his legacy as one of the most successful captains in the history of cricket have earned him immense respect and admiration from fans and fellow cricketers globally..</p>
+            MS Dhoni's impact on Indian cricket, his achievements as a player and a leader, and his legacy as one of the most successful captains in the history of cricket have earned him immense respect and admiration from fans and fellow cricketers globally..<br><br>
+            We will miss you Mahi..
+        </p>
         <!-- Include more information about MS Dhoni here -->
         <!-- ... -->
 
