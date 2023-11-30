@@ -50,7 +50,7 @@
             Post his retirement, Dhoni has been involved in various roles including coaching, mentorship, and team management in cricket leagues such as the Indian Premier League (IPL).
         </p>
         <p>
-            MS Dhoni's contributions to Indian cricket and his impact on the sport make him a revered figure among cricket fans worldwide.
+            MS Dhoni's contributions to Indian cricket and his impact on the sport make him a revered figure among cricket fans worldwide. He is loved by many people
         </p>
     </div>
 </body>
