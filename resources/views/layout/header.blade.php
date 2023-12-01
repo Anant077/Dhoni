@@ -56,6 +56,7 @@ nav ul li a:hover {
 
           <li><a href="/history">History</a></li>
           <li><a href="/books">Books</a></li>
+          <li><a href="/contact">Contact</a></li>
         </ul>
       </nav>
 
